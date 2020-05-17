@@ -1,5 +1,5 @@
 {
-  "name": "burger",
+  "name": "sequelizedburger",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robertalanis/burger.git"
+    "url": "git+https://github.com/robertalanis/sequelizedBurger.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/robertalanis/burger/issues"
+    "url": "https://github.com/robertalanis/sequelizedBurger/issues"
   },
-  "homepage": "https://github.com/robertalanis/burger#readme",
+  "homepage": "https://github.com/robertalanis/sequelizedBurger#readme",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^4.0.4",
